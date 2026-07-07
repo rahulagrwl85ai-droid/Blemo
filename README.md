@@ -1,2 +1,0 @@
-# Blemo
-Acne Lotion website
